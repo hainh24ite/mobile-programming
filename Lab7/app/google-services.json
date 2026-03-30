@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305158529160",
+    "project_id": "createmessage2024-bc25b",
+    "storage_bucket": "createmessage2024-bc25b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305158529160:android:18b7d2605cd7e5f31bff3d",
+        "android_client_info": {
+          "package_name": "com.example.lab7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvWiy3SeFPvHC0sqEU7Le_uTrQ0_IXnDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
